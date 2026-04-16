@@ -3,7 +3,7 @@
 This project was developed with contributions from:
 
 ## Primary Developer
-- **Haoyun Zhao** (@OA3lllhhy)
+- **Haoyun Liu** (@OA3lllhhy)
   - DDPM pipeline implementation
   - Cosine schedule and charge balance loss
   - Classifier and analysis tools
