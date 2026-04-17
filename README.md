@@ -131,7 +131,7 @@ python classifier.py --gnn_ablation
 
 ### `analysis.py` - Distribution Analysis
 
-Comprehensive analysis script comparing real and generated event distributions across multiple diffusion steps.
+Comprehensive analysis script comparing real and generated event distributions across multiple diffusion steps for all particles, electron and positron.
 
 ```bash
 python analysis.py
