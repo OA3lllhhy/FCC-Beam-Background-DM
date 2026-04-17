@@ -10,7 +10,9 @@ The pipeline implements a diffusion-based generative model for simulating partic
 - **Evaluate** the quality of generated samples
 
 Raw Guinea-Pig data: `/ceph/submit/data/group/fcc/ee/beam_backgrounds/guineapig/FCCee_Z_GHC_V25p3_4_FCCee_Z256_2T_grids8/*.pairs` and `/ceph/submit/data/user/b/bmaier/BiB/*.pairs`. Use output0_XXX.pairs only.
+
 Data for training and sampling available: `/ceph/submit/data/user/h/haoyun22/dm_generated_results/guineapig_raw_trimmed_new.npy`
+
 Generated events, model check point, loss history, meta data, 2D 3D classifier data of `pipeline_cosine_charge.py` available in `/ceph/submit/data/user/h/haoyun22/dm_generated_results/results_nosquash_cosine_chargeloss/`
 
 ## Bash file for GPU usage example
