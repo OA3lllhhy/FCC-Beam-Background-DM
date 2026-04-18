@@ -19,7 +19,7 @@ Generated events, model check point, loss history, meta data, 2D 3D classifier d
 
 Follwing bash file include comprehensive pipeline for each python file (loads of arguments)
 
-- `run_dm_pipeline.sh`: Example of runing whole diffusion model pipeline, make sure data is prepared in advanced using `track_data.py`
+- `run_dm_pipeline.sh`: Example of runing whole diffusion model pipeline, make sure data is prepared using `track_data.py`
 - `run_classifier_all_steps.sh`: Example of runing random forest classifier evaluation pipeline.
 - `run_gnn_beta_pipeline.sh `: Example of runing GNN classifier pipeline.
 - `run_gnn_ablation.sh`: Example of runing GNN ablation test.
